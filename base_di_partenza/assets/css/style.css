@@ -348,6 +348,9 @@ footer {
   text-align: center;
   font-size: 1.2rem;
 }
+footer div{
+  cursor: pointer;
+}
 
 @media screen and (min-width: 800px) {
   footer {
